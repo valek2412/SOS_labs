@@ -1,0 +1,5 @@
+/home/valoleg/RiderProjects/Lab5/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/valoleg/RiderProjects/Lab5/bin/Debug/Lab5.exe.mdb
+/home/valoleg/RiderProjects/Lab5/bin/Debug/Lab5.exe
+/home/valoleg/RiderProjects/Lab5/obj/Debug/Lab5.exe
+/home/valoleg/RiderProjects/Lab5/obj/Debug/Lab5.exe.mdb
